@@ -1,6 +1,6 @@
 # ICG-Final-Project
 This is the python implementation of the following paper:
-*Painterly Rendering with Curved Brush Strokes of Multiple Sizes*
+*Hertzmann, Aaron. "Painterly rendering with curved brush strokes of multiple sizes." Proceedings of the 25th annual conference on Computer graphics and interactive techniques. 1998.*
 
 ## Execution
 1. `python main.py -i [input image] -o [output image] -s [style]`
